@@ -1,0 +1,5 @@
+; ENVI Image to Image GCP File
+; base file: F:\log-gabor_test\makedata\results\193_194\M1noise.tif
+; warp file: F:\log-gabor_test\makedata\results\193_194\M2noise.tif
+; Base Image (x,y), Warp Image (x,y)
+;
